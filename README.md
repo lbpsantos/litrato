@@ -1,11 +1,19 @@
 **Title**
-Task Management
+
+- Task Management
+
 **Background of Program**
-A program that lets the user input task entries.
+
+- A program that lets the user input task entries.
+
 **Modules**
-User
-Task Management	
+
+- User
+
+- Task Management	
+
 **How to clone, setup, run Project**
+
 1. Go to this github repo: [lbpsantos/litrato](https://github.com/lbpsantos/litrato)
 2. Click the code button(Green) and press download.
 3. Once downloaded, extract the file and put it anywhere you want.
@@ -56,6 +64,7 @@ Task Management
 
   Task Management (All in one na HAHAHAH pinagawa sa chatgpt, walang edit pero may create and delete)
 <img width="1915" height="1000" alt="image" src="https://github.com/user-attachments/assets/26ae43b3-1fe6-4657-b335-24dcc27b25df" />
+
 
 
 
